@@ -3,3 +3,6 @@
 
  Repositório criado durante uma aula do curso de Git e GitHub do
  Curso em Vídeo
+ 
+ Esta linha foi adicionada diretamente do site! 
+ QUE IMPRESSIONANTE!!
